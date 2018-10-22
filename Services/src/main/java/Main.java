@@ -6,12 +6,8 @@ public class Main {
     static String help_message =
             "command:\n" +
                     "\n\tpoll - Retrieves the status from of all configured services" +
-                    "\n\tfetch - Retrieves the status from of all configured services" +
                     "\n\tservices - Lists all known services" +
-                    "\n\tbackup - backups the current internal state to a file" +
-                    "\n\trestore - Imports the internal state from another run or app" +
                     "\n\thistory - Outputs all the data from the local storage" +
-                    "\n\tstatus - Summarizes data and displays it in a table-like fashion" +
                     "\n\thelp - This screen";
 
     static String bot_run = "bot command [args]\n";
