@@ -9,6 +9,8 @@ It starts by checking if the URL is actually acessible and if such it scrapes th
 
 The program also creates a log file stored in your home directory.
 
+All the source code is provided as is. Feel free to change/shape it to meet any of your needs!
+
 ## Usage
 ```java
   java -jar bot1.jar command [args]
