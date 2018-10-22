@@ -1,0 +1,4 @@
+github|https://status.github.com/messages
+slack|https://status.slack.com/
+bitbucket|https://status.bitbucket.org/
+gitlab|https://status.gitlab.com/
